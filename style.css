@@ -1,3 +1,17 @@
 #navbar{
     background-color: pink;
 }
+
+.banner{
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://miro.medium.com/max/595/1*bgEj2ct9B0rYVufMm7XohA.jpeg');
+    min-height: 400px;
+}
+
+.title.text{
+    font-size: 60px;
+    padding-left: 35%;
+    text-align: center;
+    color: black;
+}
